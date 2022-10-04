@@ -54,4 +54,4 @@ const average = (bahasaIndonesia, bahasaInggris, matematika, ipa) => {
   }
 };
 
-average(60, 60, 80, 90);
+average(1000,1000,1000,1000);
