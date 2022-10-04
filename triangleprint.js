@@ -1,4 +1,4 @@
-let printSegitiga = 5;
+let printSegitiga = 999;
 
 let output = "";
 //validasi tipe data number atau bukan
@@ -11,5 +11,5 @@ if (typeof printSegitiga == "number") {
   }
   console.log(output);
 } else {
-  console.log("input data number");
+  console.log("not number value");
 }
