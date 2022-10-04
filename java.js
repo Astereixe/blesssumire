@@ -1,2 +1,2 @@
-const data =["apel","nangka"]
-console.log(data)
+const buahbuahan =["apel","nangka","nanas"]
+console.log(buahbuahan)
