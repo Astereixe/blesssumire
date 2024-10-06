@@ -8,6 +8,7 @@ const emails = [
   'coincidentalgroin12@example.com',
   'erodingbulwark41@hotmail.com',
   'agreeablepaunch51@gmail.com',
+  'agreeablepaunchsss51@gmail.com',
 ];
 // regex pattern to extract username from email
 const pattern = /([^@]+)@/;
