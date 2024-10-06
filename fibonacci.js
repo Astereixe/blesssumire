@@ -1,4 +1,4 @@
-const count = 50;
+const count = 90;
 const num = [];
 for (let index = 0; index < count; index++) {
   let current;
