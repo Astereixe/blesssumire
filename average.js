@@ -41,7 +41,7 @@ const average = (bahasaIndonesia, bahasaInggris, matematika, ipa) => {
             console.log("Grade E");
           }
         } else {
-          console.log("nilai input tak boleh lebih dari 100");
+          console.log("nilai input tak boleh lebihh dari 100");
         }
       } else {
         console.log("nilai input tak boleh kurang dari 0");
