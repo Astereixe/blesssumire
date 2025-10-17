@@ -1,4 +1,4 @@
-let printSegitiga = 999;
+let printSegitiga = 14;
 
 let output = "";
 //validasi tipe data number atau bukan
