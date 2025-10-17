@@ -13,8 +13,8 @@ let data = {
   website: "hildegard.org",
 };
 let mydata = {
-  name: "Denny Wahyu Prasetyo",
-  email: "dennywp666@gmail.com",
+  name: "Dsssaa",
+  email: "dennywpasdsdsds@gmail.com",
   hobby: "mendengarkan musik",
 };
 
